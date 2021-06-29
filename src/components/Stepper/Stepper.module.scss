@@ -1,0 +1,12 @@
+.collapsedStepPreviousTitle {
+  cursor: pointer;
+
+  &Text {
+    border-bottom: 1px dashed;
+  }
+}
+
+.collapsedStepPreviousEdit {
+  cursor: pointer;
+  border-bottom: 1px dotted;
+}
